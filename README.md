@@ -1,7 +1,7 @@
 # CS Labs Web
 
 ## Description
-CS Labs is aimed to create a full environment for learning without the issues of works on my machine. This project 
+CS Labs is aimed to create a full environment for learning without the issues of "works on my machine". This project 
 provides both class and independent learning modules. There are other solutions out there but this one is free
 for IUS and provides reasonable pricing for outside users.
 
