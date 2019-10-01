@@ -18,6 +18,11 @@ Proxmox provided by the CS Labs Infrastructure team.
 ## Reports
 
 * [Feasibility Report](REPORTS/RF1-FeasibilityReport.pdf)
+* [Software Requirement Specification](RF2-SoftwareRequirementSpecification.pdf)
+
+## Time Sheets
+
+* [08-10-2019 - 09-21-2019](TIMESHEETS/08-10-2019-09-21-2019.pdf)
 
 ## Project Links
 
