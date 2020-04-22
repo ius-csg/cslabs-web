@@ -20,7 +20,12 @@ Proxmox provided by the CS Labs Infrastructure team.
 * [Feasibility Report](REPORTS/RF1-FeasibilityReport.pdf)
 * [Software Requirement Specification](REPORTS/RF2-SoftwareRequirementSpecification.pdf)
 * [Software Architecture Specification](REPORTS/RF3-SoftwareArchitectureSpecification.pdf)
-* [Open Source Selection Report](RF5-OpenSourceSelectionReport.pdf)
+* [Open Source Selection Report](REPORTS/RF5-OpenSourceSelectionReport.pdf)
+* [Test Plan Document](REPORTS/RS6-TestPlanDocument.pdf)
+* [Test Cases](REPORTS/RS7-TestCases.pdf)
+* [Test Summary Report](REPORTS/RS8-TestSummaryReport.pdf)
+* [Programmers Manual](REPORTS/RS9-ProgrammersManual.pdf)
+* [Future Development Statement](REPORTS/RS11-FutureDevelopmentStatement.pdf)
 
 ## Time Sheets
 
